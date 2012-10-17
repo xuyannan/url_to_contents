@@ -21,8 +21,8 @@ Or install it yourself as:
 
 ## Usage
 
-    $ UrlToContents::Url.new('http://v.youku.com/v_show/id_XMjk1MTM0Njky.html').parse		
-    $ => "http://player.youku.com/player.php/sid/XMjk1MTM0Njky/v.swf"
+    UrlToContents::Url.new('http://v.youku.com/v_show/id_XMjk1MTM0Njky.html').parse		
+    => "http://player.youku.com/player.php/sid/XMjk1MTM0Njky/v.swf"
 
 ## Contributing
 
