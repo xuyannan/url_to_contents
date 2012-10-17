@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    url_to_contents (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nokogiri (~> 1.5.5)
+  url_to_contents!
