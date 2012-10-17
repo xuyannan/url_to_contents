@@ -6,10 +6,10 @@ require 'url_to_contents/version'
 Gem::Specification.new do |gem|
   gem.name          = "url_to_contents"
   gem.version       = UrlToContents::VERSION
-  gem.authors       = ["TODO: Write your name"]
-  gem.email         = ["TODO: Write your email address"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.authors       = ["skywalker"]
+  gem.email         = ["skywalker418@gmail.com"]
+  gem.description   = [""]
+  gem.summary       = ""
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
